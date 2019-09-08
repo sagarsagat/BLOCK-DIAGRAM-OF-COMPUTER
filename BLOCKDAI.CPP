@@ -2,7 +2,7 @@
 # AUTOUR: SAGAR C N           # used libary's: # used predifened functions:                  #
 # PHONE NUMBER: 8197589728    #  conio.h       # setcolor(),setbkcolor(),rectangle()         #
 # 1ST BCA JSS COLLEGE         #  graphics.h    # outtextxy(),setfillstyle(),floodfill()      #
-#  MYSORE	                  #                # settextstyle()                              #
+#  MYSORE	              #                # settextstyle()                              #
 ############################################################################################*/
 
 #include<conio.h>
